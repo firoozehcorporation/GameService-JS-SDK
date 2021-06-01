@@ -1,0 +1,21 @@
+{
+  "name": "gameservice-sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK version of GamesService.ir",
+  "main": "bundle.js",
+  "author": "Amir Rastegar (FiroozehCorp LTD)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "uuid": "^3.4.0",
+    "ws": "^7.4.5"
+  },
+  "keywords": [
+    "Gaming",
+    "online game",
+    "multiplayer",
+    "cloud",
+    "gamesservice",
+    "gameservice"
+  ]
+}
