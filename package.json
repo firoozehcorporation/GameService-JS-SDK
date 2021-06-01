@@ -2,7 +2,7 @@
   "name": "gameservice-sdk",
   "version": "1.0.0",
   "description": "JavaScript SDK version of GamesService.ir",
-  "main": "bundle.js",
+  "main": "gameservice-sdk.js",
   "author": "Amir Rastegar (FiroozehCorp LTD)",
   "license": "ISC",
   "dependencies": {
