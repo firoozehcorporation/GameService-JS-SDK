@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript SDK version of GamesService.ir",
   "main": "gameservice-sdk.js",
+  "homepage": "https://gamesservice.ir",
   "author": "Amir Rastegar (FiroozehCorp LTD)",
   "license": "ISC",
   "dependencies": {
